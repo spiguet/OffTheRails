@@ -1,5 +1,5 @@
 # OffTheRails
-Billiards style game created with Processing.
+Billiards style game for Mac OS, created with Processing.
 
 Originally created by Seth Piguet in Feb. 2015
 

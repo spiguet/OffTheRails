@@ -14,3 +14,6 @@ Position the stick in the angle desired.
 Left-click + drag the mouse to increase (Shot Power) and aim.
 Release the mouse to strike the ball.
 
+Download zip with Mac app and Processing source:
+http://amzn.to/1WQ29hf
+
